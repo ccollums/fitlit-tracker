@@ -77,7 +77,7 @@ FitLit Tracker is an app that allows the user to track their health statistics. 
 
 ## Specs
 Project specs can be found here
--  [FitLit](https://frontend.turing.edu/projects/Fitlit-part-one.html)
+-  [FitLit](https://frontend.turing.edu/projects/Fitlit-part-two.html)
 
 ## Demo
 -  Video demo can be found [here](https://youtu.be/fOZ8zeS0PSA)
